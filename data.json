@@ -1,0 +1,16 @@
+{
+  "hot":[{"id":1,"orderIconUrl":"https://fuss10.elemecdn.com/0/07/071adeae7aa8d5d1d2553030351ecjpeg.jpeg?imageMogr2/thumbnail/120x120","orderName":"泰急","subText":"起送价20元"},
+    {"id":2,"orderIconUrl":"https://fuss10.elemecdn.com/6/a0/07e7480907ea627934220af355578jpeg.jpeg?imageMogr2/thumbnail/120x120/format/webp/quality/85","orderName":"咖喱鸡","subText":"保卫家园,人在城在"},
+    {"id":3,"orderIconUrl":"https://fuss10.elemecdn.com/3/25/db060f0a1ac270ca76158d5a0a111jpeg.jpeg?imageMogr2/thumbnail/120x120/format/webp/quality/85","orderName":"方便e点","subText":"相亲相爱,不如来相互伤害！"}
+        ],
+  "newOrder":[{"id":4,"orderIconUrl":"https://fuss10.elemecdn.com/c/62/f15034651ec51f73140ea9248ffadpng.png?imageMogr2/thumbnail/120x120/format/webp/quality/85","orderName":"黄焖鸡米饭","subText":"实时PK，首周送2088礼包！"},
+    {"id":5,"orderIconUrl":"https://fuss10.elemecdn.com/f/d8/dd8cf46fafd55886b82e92aa8729djpeg.jpeg?imageMogr2/thumbnail/120x120/format/webp/quality/85","orderName":"沙茶酸笋面","subText":"史上最好玩的策略游戏"},
+    {"id":6,"orderIconUrl":"https://fuss10.elemecdn.com/5/0a/774be0b97eec114828ceab60ae340jpeg.jpeg?imageMogr2/thumbnail/120x120/format/webp/quality/85","orderName":"眼镜哥凉皮","subText":"万人激情战斗，装备全靠爆。"},
+    {"id":7,"orderIconUrl":"https://fuss10.elemecdn.com/1/b6/19a16087fe475135f3fe48410668ajpeg.jpeg?imageMogr2/thumbnail/140x140/format/webp/quality/85","orderName":"一心","subText":"万人激情战斗，装备全靠爆。"}
+  ],
+  "foodList":[{
+    "shopId":1,"foodName":"奇迹招牌烤肉拌饭+饮料","price":15,"foodImgUrl":"https://fuss10.elemecdn.com/6/07/e5e2ad721a93b2066ef24cfeced64jpeg.jpeg?imageMogr2/thumbnail/150x150/format/webp/quality/85","isable":true,"remark":""
+  },{
+    "shopId":1,"foodName":"奇迹招牌烤肉拌饭","price":15,"foodImgUrl":"https://fuss10.elemecdn.com/d/ff/f842501fac3082616e22874d7110ajpeg.jpeg?imageMogr2/thumbnail/150x150/format/webp/quality/85","isable":false,"remark":""
+  }]
+}
